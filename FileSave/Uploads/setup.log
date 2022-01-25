@@ -1,0 +1,21 @@
+2021/08/17 20:54:40 Starting cygwin install, version 2.908
+2021/08/17 20:54:40 User has backup/restore rights
+2021/08/17 20:54:41 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/08/17 20:54:41 Current Directory: C:\Users\Dhanur\Desktop
+2021/08/17 20:54:44 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/08/17 20:54:44 Ending cygwin install
+2021/08/30 11:22:05 Starting cygwin install, version 2.908
+2021/08/30 11:22:05 User has backup/restore rights
+2021/08/30 11:22:05 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/08/30 11:22:05 Current Directory: C:\Users\Dhanur\Desktop
+2021/08/30 11:22:34 source: network install
+2021/08/30 11:22:41 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/08/30 11:22:41 Ending cygwin install
+2021/09/01 12:22:30 Starting cygwin install, version 2.908
+2021/09/01 12:22:30 User has backup/restore rights
+2021/09/01 12:22:30 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/09/01 12:22:30 Current Directory: C:\Users\Dhanur\Desktop
+2021/09/01 12:22:34 source: network install
+2021/09/01 12:22:38 root: C:\cygwin64 system
+2021/09/01 12:22:41 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/09/01 12:22:41 Ending cygwin install
