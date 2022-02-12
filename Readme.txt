@@ -1,0 +1,1 @@
+Here is the database of this project in /Fie , restore this database from here and it'll automatically store database into your given SQL Management Studio
